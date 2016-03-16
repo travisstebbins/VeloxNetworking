@@ -1,6 +1,8 @@
 #################
 ## Unreal Engine
 #################
+Build/
+Intermediate/
 Saved/
 WindowsNoEditor/
 
