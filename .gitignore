@@ -6,6 +6,11 @@ Intermediate/
 Saved/
 WindowsNoEditor/
 
+#################
+## Miscellaneous
+#################
+*.zip
+
 
 #################
 ## Eclipse
